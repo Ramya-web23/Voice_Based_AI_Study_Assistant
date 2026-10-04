@@ -1,0 +1,6 @@
+
+google-genai
+gradio
+SpeechRecognition
+gTTS
+pydub
